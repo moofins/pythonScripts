@@ -1,0 +1,22 @@
+05/20/2020  01:44 PM    <DIR>          .
+05/20/2020  01:44 PM    <DIR>          ..
+04/27/2020  06:42 PM    <DIR>          Common Files
+04/27/2020  06:42 PM    <DIR>          DIFX
+05/20/2020  02:09 PM    <DIR>          internet explorer
+04/27/2020  06:54 PM    <DIR>          Microsoft Analysis Services
+04/27/2020  06:52 PM    <DIR>          Microsoft SQL Server
+04/27/2020  06:51 PM    <DIR>          Microsoft Visual Studio 10.0
+04/27/2020  06:51 PM    <DIR>          Microsoft.NET
+04/27/2020  06:42 PM    <DIR>          Plantronics
+04/27/2020  06:26 PM    <DIR>          Reference Assemblies
+05/20/2020  01:44 PM    <DIR>          VMware
+05/20/2020  02:09 PM    <DIR>          Windows Defender
+05/20/2020  02:09 PM    <DIR>          Windows Defender Advanced Threat Protection
+09/15/2018  07:19 AM    <DIR>          Windows Mail
+09/07/2019  12:31 AM    <DIR>          Windows Media Player
+09/15/2018  07:19 AM    <DIR>          Windows Multimedia Platform
+09/15/2018  07:28 AM    <DIR>          windows nt
+09/07/2019  12:31 AM    <DIR>          Windows Photo Viewer
+09/15/2018  07:19 AM    <DIR>          Windows Portable Devices
+09/15/2018  07:19 AM    <DIR>          Windows Security
+09/15/2018  07:19 AM    <DIR>          WindowsPowerShell
